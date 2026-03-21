@@ -1,9 +1,9 @@
-    -- grandMA3 Plugin: TaterFaderTricksXGroups
+-- grandMA3 Plugin: TaterFaderTricksXGroups
     -- Author: LXTater
-    -- Version: 0.0.1
-    -- Github: https://github.com/LXTater/TaterFaderTricks
+    -- Version: 0.0.0.1
+    -- Github: https://github.com/LXTater/LXTaterPlugins/tree/main/TaterFaderTricksXGroup
     -- www.LXTater.com
-
+---USE THIS VERSION!
 
     --[[ Version History:
     ---------------  
