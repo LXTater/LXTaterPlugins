@@ -4,6 +4,8 @@
 -- Opens the setup wizard and saves settings to GlobalVars.
 -- The main TaterFaderXGroup plugin detects the change and hot-reloads.
 
+--This is maybe for the future, don't worry about this.
+
 -- GlobalVar keys (must match main plugin)
 local GV_RUN       = "taterFaderXGroupRun"
 local GV_EXEC      = "taterFaderXGroupExec"
