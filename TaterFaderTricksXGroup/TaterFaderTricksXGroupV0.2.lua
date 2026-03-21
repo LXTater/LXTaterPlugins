@@ -4,7 +4,7 @@
     -- Github: https://github.com/LXTater/LXTaterPlugins/tree/main/TaterFaderTricksXGroup
     -- www.LXTater.com
 
---- DO NOT USE THIS VERSION
+--- DO NOT USE THIS VERSION 
 
     --[[ Version History:
     ---------------  
