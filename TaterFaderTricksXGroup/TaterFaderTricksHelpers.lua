@@ -4,6 +4,7 @@
 -- Github: https://github.com/LXTater/StabberPro
 -- www.LXTater.com
 
+--You can safely ignore this!
 
 --[[ Version History:
 ---------------  
